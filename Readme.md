@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CustomAxisLabels/Form1.cs) (VB: [Form1.vb](./VB/CustomAxisLabels/Form1.vb))
+* [Program.cs](./CS/CustomAxisLabels/Program.cs) (VB: [Program.vb](./VB/CustomAxisLabels/Program.vb))
+<!-- default file list end -->
 # How to create custom axis labels
 
 
