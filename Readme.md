@@ -10,4 +10,4 @@
 <!-- default file list end -->
 # How to create custom axis labels
 
-This example demonstrates how [custom labels](https://docs.devexpress.com/WindowsForms/5804/controls-and-libraries/chart-control/axes/axis-labels#custom) can be added to an appropriate [axis](https://docs.devexpress.com/WindowsForms/5779/controls-and-libraries/chart-control/diagram/axes) collection at runtime.
+This example demonstrates how [custom labels](https://docs.devexpress.com/WindowsForms/5804/controls-and-libraries/chart-control/axes/axis-labels#custom-axis-labels) can be added to an appropriate [axis](https://docs.devexpress.com/WindowsForms/5779/controls-and-libraries/chart-control/diagram/axes) collection at runtime.
